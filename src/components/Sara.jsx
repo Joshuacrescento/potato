@@ -6,7 +6,7 @@ class Sara extends Component {
         return ( 
             <React.Fragment>
 
-                <span>SARA</span>
+                <span>SARA TE AMO</span>
             </React.Fragment>
          );
     }
